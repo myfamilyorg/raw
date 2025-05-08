@@ -1,0 +1,3 @@
+[crate]
+	lib = "raw"
+[deps]
